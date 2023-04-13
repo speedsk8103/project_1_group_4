@@ -10,3 +10,5 @@ How much does GDP affect happiness? Regiaonal diet?
 How important is trust in government related to happiness?
 How does access to social services (healthcare, public education, nutrition assistance programs, childcare) impact level of happiness?
 What are the differences between categories from the top 5 countries to the bottom 5?
+What makes a country with a high GDP rank low on the list?
+Is there any category 
